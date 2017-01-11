@@ -6,6 +6,6 @@ bower install<br/>
 
 ### Contact
 ##### Cristian Silva | Software Developer | Database Engineer
-* Page : csprofile.github.io
+* Page : http://csprofile.github.io
 * Skype: wd.cristian
 * Email: wd.cristian@gmail.com
